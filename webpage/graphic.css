@@ -1,0 +1,99 @@
+.led {
+    color: black;
+    ;
+
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cairo', sans-serif;
+    text-shadow: blue;
+    border-bottom: 5px black dashed;
+
+
+
+}
+
+
+
+
+.audo {
+
+
+    background-color: olive;
+    border: 10px rgb(255, 255, 255);
+    border-style: dashed;
+    margin: 100px 200px;
+
+}
+
+.label {
+
+    margin-left: 42%;
+    color: rgb(255, 255, 255);
+
+
+
+}
+
+body {
+
+    background-image: url(../pexels-luis-del-río-15286.jpg);
+
+
+}
+
+.oo {}
+
+p {
+    font-size: 30px;
+    margin-left: 75%;
+    color: rgb(255, 255, 255);
+}
+
+.df {
+
+    background-color: olive;
+    border: 10px rgb(255, 255, 255);
+    border-style: dashed;
+    margin: 100px 200px;
+
+
+}
+
+.vdi {
+    margin-left: 42%;
+    color: aliceblue;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+
+}
+
+
+.er {
+    margin-left: 2%;
+    border: 5px solid wheat;
+
+
+}
+
+.ui {
+    margin-left: 2%;
+    border: 5px solid wheat;
+}
+
+.ss {
+    margin-left: 2%;
+    margin-top: 100%;
+}
+
+.pp {
+    padding: 100px;
+    margin: 30px 0;
+    text-align: center;
+    background-color: olive;
+    border-radius: 3%;
+    border: black solid 2px;
+
+    /* border: solid 2px wheat; */
+
+}
